@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TohidChouhan
+- 👀 I’m interested in Web Development,App development,full Stack development
+- 🌱 I’m currently learning full Development in Javascript
+- 💞️ I’m looking to collaborate with some innovative firms.
+- 📫 You can reach me by my @gamil: tohidtohid1422@gmail.com
+- ⚡ Fun fact: I had been an internship before in Creanovation Technologies Pvt. Ltd.
