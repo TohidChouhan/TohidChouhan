@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TohidChouhan
-- 👀 I’m interested in Web Development,App development,full Stack development
-- 🌱 I’m currently learning mern stack development.
-- 💞️ I’m looking to collaborate with some innovative firms.
-- 📫 You can reach me by my @gamil: tohidtohid1422@gmail.com 
-- ⚡ Fun fact: I had been an internship before in Creanovation Technologies Pvt. Ltd.
+- 👀 I’m interested in Web Development, Backend Development, Full-Stack Development, and Artificial Intelligence projects.
+- 🌱 I’m currently learning MERN Stack Development and exploring modern backend technologies.
+- 💞️ I’m looking to collaborate with innovative teams and organizations working on impactful technology projects.
+- 📫 You can reach me via email: tohidtohid1422@gmail.com
+- ⚡ Fun fact: I previously completed an internship at Creanovation Technologies Pvt. Ltd., where I gained hands-on experience in backend development.
